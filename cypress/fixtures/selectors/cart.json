@@ -1,0 +1,24 @@
+{
+  "certStep": {
+    "summary": ".step_current.first",
+    "address": ".step_current.third",
+    "shipping": ".step_current.four",
+    "payment": ".step_current.last"
+  },
+
+  "itemName": ".cart_item .product-name",
+  "itemPrice": "#total_price",
+  "termOfService": "#uniform-cgv",
+  "payByBank": ".bankwire",
+  "payByCheque": ".cheque",
+  "orderConfirmation": ".cheque-indent",
+  "orderHistory": "[title='Back to orders']",
+  "orderDetails": ".box",
+
+  "checkout": {
+    "summary": "[title='Proceed to checkout']",
+    "address": "[name='processAddress']",
+    "shipping": "[name='processCarrier']",
+    "payment": "#cart_navigation button"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "emilInput": "#email",
+  "passwordInput": "#passwd",
+  "submitSignIn": "#SubmitLogin",
+
+  "authFailed": ".alert-danger ol li"
+}

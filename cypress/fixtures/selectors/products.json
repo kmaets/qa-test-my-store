@@ -1,0 +1,8 @@
+{
+  "productList": ".product_list",
+  "product": {
+    "name": ".product-container .product-name",
+    "addToCert": "[title='Add to cart']",
+    "checkout": "[title='Proceed to checkout']"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "signIn": ".login",
+  "signOut": "[title='Log me out']",
+  "accountName": ".account",
+  "orderHistory": "[title='Orders']"
+}

@@ -1,0 +1,6 @@
+{
+  "orderList": "#order-list",
+  "latestOrder": {
+    "reference": ".first_item .history_link a"  
+  } 
+}

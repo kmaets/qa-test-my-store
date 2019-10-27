@@ -1,0 +1,7 @@
+{
+  "name": "Kamil Tests",
+  "email": "kamilqatest+mystore@gmail.com",
+  "password": "z!x@c#v$",
+  "emailInvalid": "kamilqatest+invalid@gmail.com",
+  "passwordInvalid": "1234"
+}
